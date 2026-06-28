@@ -1,0 +1,15 @@
+The schedule should be in the following format:
+- Each task should be on a new line
+- Each task should be in the format: "Time - Task"
+- Time should be in 24-hour format
+- Task should be a brief description of the task
+- The schedule should be in chronological order
+- schedule should fit in A4 size paper and be printable
+- have white background overall
+- each time-task pair should be in a card or box
+- distribute the tasks evenly across the length of the paper - adjust the spacing between cards to achieve this
+- the font should be easy to read and large enough to be readable
+- important or key tasks should be highlighted or the card should be bordered in magenta (deep red color)
+- key tasks are: "wake up time", "gym session", "deep-dive time", "jogging/ running time", "dinner time"
+- keep narrow margins on all sides
+- generate this routine/ schedule card as a pdf file
