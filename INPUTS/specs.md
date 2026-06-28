@@ -400,5 +400,161 @@ Once the student has built a consistent base (approx. 8–12 weeks in), the RWC 
 
 | File | Format | Print |
 |---|---|---|
-| `weekly_workout_plan.pdf` | A4 PDF | Black & white printable |
-| `weekly_workout_plan.md` | Markdown | Interactive — for editing and updates |
+| `OUTPUTS/weekly_workout_plan.pdf` | A4 PDF | Black & white printable |
+| `INPUTS/weekly_workout_plan.md` | Markdown | Interactive — for editing and updates |
+
+---
+
+# Weekly Meal Plan — Specifications
+
+## 18. Project Context & Constraints
+
+This meal plan is designed for a first-year Engineering undergraduate living in a UCF dorm (Neptune 157). The student has no kitchen access — only a **microwave** and a **small fridge with a separate freezer**. He owns microwavable cutlery and plates/cups but no pots, pans, or elaborate utensils. Study commitments limit time available for food preparation, so all meals must be quick to assemble or microwave.
+
+### 18.1 Equipment Available
+- Microwave oven
+- Small dorm fridge + separate freezer compartment
+- Microwavable plates, bowls, mugs, and cups
+- Basic cutlery (fork, spoon, knife)
+- No stove, oven, toaster oven, pots, or pans
+
+### 18.2 Dietary Profile
+- **Allergies:** None (no nut allergies)
+- **Diet type:** Non-vegetarian — chicken is the primary protein
+- **Regular habits:** Almond milk every morning on waking; eggs eaten regularly
+- **Proteins:** Chicken (primary), eggs, canned tuna, deli meats (turkey, ham), smoked salmon, turkey sausage, franks/sausages
+- **Grains:** Whole wheat bread, tortillas, English muffins, bagels, cereals, Wheatbix, instant oats, microwave rice packets
+- **Dairy:** Almond milk, Greek yogurt, string cheese, shredded cheese, cream cheese
+- **Produce:** Fresh and frozen fruits and vegetables (frozen steam bags are microwave-ready)
+
+### 18.3 Grocery Access
+- **Store:** Publix supermarket
+- **Frequency:** Once per week — **Tuesday or Wednesday** depending on campus shuttle availability
+- **Implication:** The weekly grocery list must cover the full 7-day period. Items bought on Tuesday/Wednesday must last through the following Monday/Tuesday. Freezer items are essential for mid-to-end-of-week protein supply.
+
+### 18.4 Meal Schedule (aligned with daily routine)
+| Meal | Time Window | Notes |
+|---|---|---|
+| Breakfast | 07:30–08:00 | Quick prep; assembled before packing for library |
+| Packed Lunch | Packed at 08:00–08:15; eaten 12:00–12:30 | Must be portable; no heating at library |
+| Snack | ~20:15–21:00 (or mid-morning) | Light; no cooking required |
+| Dinner | Prepared 17:00–17:30; eaten 19:00–20:00 | Microwaved before evening run; reheated after |
+
+---
+
+## 19. Meal Plan Design Principles
+
+1. **Speed first:** No meal should require more than 10–15 minutes of active prep or microwave time.
+2. **Health focus:** High protein (supports gym + growth), complex carbs (sustained energy for study and cardio), fruits and vegetables daily.
+3. **Fridge/freezer discipline:** Perishables used early in the week (Mon–Wed); frozen items and canned goods cover Thu–Sun.
+4. **Portability:** Packed lunch must require no heating and be easily carried in a lunchbox.
+5. **Rotation:** Meals rotate across the week to avoid monotony while using the same grocery haul.
+6. **Dinner-then-run logic:** Dinner is prepared at 17:00–17:30 before the jogging session. After returning at ~19:00, the student reheats and eats. Microwave meals reheat in under 3 minutes.
+7. **Sunday as light day:** Sunday is rest day — dinner is lighter and the student can do a relaxed meal prep review for the coming week.
+
+---
+
+## 20. Weekly Meal Plan Content
+
+### Meal categories per day
+- **Breakfast:** Eggs (microwaved) / Wheatbix or cereal / Smoked salmon on toast / Deli meat roll-ups / Fruit + yogurt bowl
+- **Packed Lunch:** Sandwich / Wrap / Salad box — no heating required
+- **Snack:** Fruit + protein bar / Greek yogurt / Nuts / String cheese
+- **Dinner:** Microwave chicken rice bowl / Egg scramble / Quesadilla / Canned soup + protein / Chicken veggie bowl
+
+| Day | Breakfast | Packed Lunch | Snack | Dinner |
+|---|---|---|---|---|
+| **Mon** | Microwave scrambled eggs (2) + whole wheat toast + almond milk | Turkey & cheese wrap + banana | Greek yogurt + granola | Chicken rice bowl (Ready Rice + pre-cooked chicken strips + frozen broccoli, microwaved) |
+| **Tue** | Wheatbix + almond milk + fresh berries | Ham & Swiss sandwich + apple + baby carrots | Protein bar + orange | Microwave egg scramble with diced turkey sausage + canned black beans + whole wheat toast |
+| **Wed** | Smoked salmon + cream cheese on whole wheat toast + almond milk | Chicken salad wrap (rotisserie chicken + mayo + lettuce) + grapes | String cheese + apple | Canned chicken noodle soup (microwaved) + dinner roll + mixed fruit |
+| **Thu** | Turkey/ham deli roll-ups + 2 hard-boiled eggs (microwaved) + almond milk | Tuna salad sandwich × 2 (canned tuna + mayo) + orange | Almonds + banana | Frozen pre-cooked chicken breast + Ready Rice packet + microwave steamed green beans |
+| **Fri** | Multigrain cereal + almond milk + sliced banana | Frank/sausage wrap + mustard + cheese + pre-packed salad box | Greek yogurt + honey | Microwave chicken quesadilla (rotisserie chicken + shredded cheese + salsa in whole wheat tortilla) + side salad |
+| **Sat** | Microwave egg & turkey sausage English muffin + almond milk | Egg salad sandwich + fruit cup | Protein bar + almond milk | Microwave chicken veggie soup (chicken broth + leftover chicken + Ready Rice + frozen mixed veggies) |
+| **Sun** | Microwave scrambled eggs (3) + 2 turkey sausages + toast + almond milk | Smoked salmon bagel + cream cheese + cucumber | Mixed nuts + dried fruit | Canned tomato soup + cheese toast (wrap in microwave-safe paper) + salad |
+
+---
+
+## 21. Weekly Grocery List (Publix — Tue/Wed Run)
+
+### Proteins
+- Rotisserie chicken (whole) — 1
+- Eggs — 1 dozen
+- Turkey deli slices — 1 pack
+- Ham deli slices — 1 pack
+- Smoked salmon — 1 pack
+- Canned tuna — 4 cans
+- Turkey sausage links (pre-cooked, frozen) — 1 pack
+- Frozen pre-cooked chicken breast strips — 1 bag
+- Franks/hot dogs — 1 pack
+
+### Dairy & Alternatives
+- Almond milk — 1 half-gallon
+- Greek yogurt (individual cups) — 5–6
+- String cheese sticks — 1 pack
+- Shredded cheese (Mexican blend) — 1 bag
+- Cream cheese (small tub) — 1
+- Swiss/American cheese slices — 1 pack
+
+### Grains & Bread
+- Whole wheat bread loaf — 1
+- Whole wheat tortillas (burrito size) — 1 pack
+- English muffins — 1 pack
+- Bagels — 1 pack
+- Ready Rice microwave packets (plain or brown rice) — 4–5
+- Multigrain cereal box — 1
+- Wheatbix or instant oatmeal — 1 box
+
+### Fruits & Vegetables
+- Bananas — 1 bunch
+- Apples — 4–5
+- Oranges — 4
+- Grapes — 1 bunch
+- Mixed berries (fresh or frozen) — 1 bag
+- Baby carrots — 1 bag
+- Cucumber — 1
+- Pre-washed lettuce mix — 1 bag
+- Frozen broccoli steam bag — 1
+- Frozen green beans steam bag — 1
+- Frozen mixed vegetables steam bag — 1
+
+### Pantry & Condiments
+- Canned chicken noodle soup — 3 cans
+- Canned tomato soup — 2 cans
+- Canned black beans — 2 cans
+- Chicken broth (carton or cans) — 1
+- Salsa (jar) — 1
+- Mustard — 1
+- Mayonnaise — 1 (small jar)
+- BBQ sauce — 1
+- Honey — 1 (small bottle)
+- Granola — 1 bag
+- Protein bars — 1 box (6–8 bars)
+- Almonds or mixed nuts — 1 bag
+- Dried fruit mix — 1 bag
+
+---
+
+## 22. Meal Plan Input / Update Workflow
+
+The student maintains `INPUTS/weekly_meal_input.md` — a living document updated before each grocery run. The workflow is:
+
+1. **Before Tuesday/Wednesday grocery run:** Student opens `weekly_meal_input.md` and fills in:
+   - What items he already has in fridge/freezer (carry-over stock)
+   - What he is running low on or out of
+   - Any meal preferences or changes for the coming week
+   - Any new items he wants to try
+
+2. **Student shares the updated file with Claude** and asks: *"Adjust my meal plan based on my updated input."*
+
+3. **Claude reads the input file**, adjusts the weekly meal plan accordingly, and regenerates the PDF.
+
+4. The updated PDF is saved back to `OUTPUTS/weekly_meal_plan.pdf`, replacing the previous version.
+
+---
+
+## 23. Meal Plan Output Files
+
+| File | Format | Notes |
+|---|---|---|
+| `OUTPUTS/weekly_meal_plan.pdf` | A4 PDF | Black & white printable, single page landscape or 2-page portrait |
+| `INPUTS/weekly_meal_input.md` | Markdown | Weekly input template — student edits before each grocery run |
